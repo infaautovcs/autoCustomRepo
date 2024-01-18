@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "ey4CBWiwhCnkb7ENzeb1Y8",
+    "id" : "5QmI1olvAf5eIsxRffRtUD",
     "name" : "auto_sqlserver_Joiner_csv",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "017JOO17000000000002"
+        "repoHandle" : "010GW217000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,29 +23,9 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-11-27T15:34:46.236Z",
+  "updateTime" : "2024-01-18T14:31:20.948Z",
   "objectRefs" : [ {
-    "id" : "ihBxKXlfRc3h0ITXmCPoK6",
-    "name" : "S8_SQLSERVER2K8",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "017JOO0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "6d36yPZccAMiQA0XnAkfAV",
+    "id" : "0RrMVUPAvAVjUZCl9Xmr2O",
     "name" : "CSV_TGT_UTF",
     "type" : "Connection",
     "metadata" : {
@@ -54,11 +34,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "017JOO0B000000000003"
+        "repoHandle" : "010GW20B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "CSV",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "g4YB97uwHuWhX9gnypRCUw",
+    "name" : "S8_SQLSERVER2K8",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010GW20B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
