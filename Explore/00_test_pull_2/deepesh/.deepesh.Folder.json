@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "5ZdaSGMmlXhknZPw1ToCUb",
+    "name" : "deepesh",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "sdasd",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-07-08T05:41:04.707Z",
+  "objectRefs" : [ ]
+}
