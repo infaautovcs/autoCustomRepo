@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "akKHk4jk2kgjJem6MFlIKo",
+    "name" : "test",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-07-30T08:53:56.273Z",
+  "objectRefs" : [ ]
+}

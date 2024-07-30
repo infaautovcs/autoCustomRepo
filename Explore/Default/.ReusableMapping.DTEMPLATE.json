@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "0ctgjklwQkjjjAGLv4ypW9",
+    "name" : "ReusableMapping",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "019DUV1700000000000C"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-07-30T08:53:56.275Z",
+  "objectRefs" : [ ]
+}
